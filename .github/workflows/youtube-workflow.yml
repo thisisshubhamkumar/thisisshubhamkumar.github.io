@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-index.md-with-youtube:
-    name: Update this repo's index.md with latest videos from YouTube
+  update-index-with-youtube:
+    name: Update this repo's index with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
