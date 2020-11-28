@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's index with latest videos from YouTube
+    name: Update this repo's index.md with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
