@@ -85,11 +85,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Track Someone's Location Over Internet](https://www.youtube.com/watch?v=TzkL7PI9D8s)
-- [Hackers Can Use Your Email address Without Even Knowing Your Account Password: Email Spoofing](https://www.youtube.com/watch?v=pRWzbXfJQkE)
-- [How to Install Kali Linux on Virtual Box](https://www.youtube.com/watch?v=LwWlrbnLQIk)
-- [New Windows 10 Tips & Tricks ! 2020](https://www.youtube.com/watch?v=Y-r83mPIg-c)
-- [5 Most Amazing Internet Tip & Tricks](https://www.youtube.com/watch?v=9-GK2Ah0bPY)
+
 <!-- YOUTUBE:END -->
 
 
@@ -98,11 +94,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make A WhatsApp Spammer](https://spyboy.blog/2020/11/27/make-a-whatsapp-spammer/)
-- [Gadgets for hacker](https://spyboy.blog/2020/11/21/gadgets-for-hacker/)
-- [Use SSH Tunnels to Forward Requests & Hack Remote Routers](https://spyboy.blog/2020/11/15/use-ssh-tunnels-to-forward-requests-hack-remote-routers/)
-- [How Hackers Hack uTorrent Clients & Backdoor their system](https://spyboy.blog/2020/11/15/how-hackers-hack-utorrent-clients-backdoor-their-system/)
-- [Brute-Force Almost Any Website Login](https://spyboy.blog/2020/11/15/brute-force-almost-any-website-login/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
@@ -129,8 +121,4 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 [C Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [C++ Programming]: https://play.google.com/store/apps/details?id=com.spyboy.cplusplusprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 [Java Programming]: https://play.google.com/store/apps/details?id=com.spyboy.javaprogramming&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
-
-
-
-
 
