@@ -85,7 +85,6 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 
 
@@ -94,7 +93,6 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
