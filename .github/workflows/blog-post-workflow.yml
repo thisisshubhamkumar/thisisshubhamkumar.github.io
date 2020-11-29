@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-index-with-blog:
-    name: Update this repo's index with latest blog posts
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
