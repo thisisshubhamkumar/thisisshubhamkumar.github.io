@@ -6,7 +6,8 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCEhncXKkZ2mFOcP-HOrL_KQ?view_as=subscriber)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=flat&labelColor=blue&logo=wordpress&logoColor=white)](https://spyboy.blog/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=Facebook&logoColor=white)](https://www.facebook.com/groups/Spyboyblog)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thisisshubhamkumar)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://thisisshubhamkumar.github.io/)
+[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/DPKPA9u)
 [![Gmail](https://img.shields.io/badge/-Gmail-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:itisshubhamkumar@gmail.com)
 &nbsp;
 
@@ -23,7 +24,7 @@ Most fascinating thing about me is I am also a Pen-tester/ethical hacker. I love
 Everyone & everything is vulnerable, and I just enjoy exposing those vulnerabilities.
 The only way to patch a vulnerability is by exposing it first.
 
-I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
+I also blog on Ethical hacking [website](www.spyboy.blog). Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
 ---
 
@@ -39,7 +40,7 @@ I also blog on Ethical hacking (www.spyboy.blog). Our blog has around 10 million
 
 [learn Java] [Java Programming]
 
-- 🌐 My Website: https://spyboy.blog/
+- 🌐 [website] https://spyboy.blog/
 - 🤖 I’m currently making it come true 💻📲
 - 👀 I’m looking to collaborate with other content creators & Android Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
