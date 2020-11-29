@@ -24,7 +24,7 @@ Most fascinating thing about me is I am also a Pen-tester/ethical hacker. I love
 Everyone & everything is vulnerable, and I just enjoy exposing those vulnerabilities.
 The only way to patch a vulnerability is by exposing it first.
 
-I also blog on Ethical hacking [website] https://spyboy.blog/. Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
+I also blog on Ethical hacking [website] : https://spyboy.blog/. Our blog has around 10 million hits. At Spyboy.blog, We Take The Responsibility Of Feeding Your Curiosity For Technical Information With The Latest Tech News, Hacking World Updates.
 
 ---
 
@@ -40,7 +40,7 @@ I also blog on Ethical hacking [website] https://spyboy.blog/. Our blog has arou
 
 [learn Java] [Java Programming]
 
-- 🌐 [website] https://spyboy.blog/
+- 🌐 [website] : https://spyboy.blog/
 - 🤖 I’m currently making it come true 💻📲
 - 👀 I’m looking to collaborate with other content creators & Android Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
