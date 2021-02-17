@@ -99,11 +99,11 @@ I also blog on Ethical hacking [website] : https://spyboy.blog/. Our blog has ar
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SSH for remote access on Linux](https://spyboy.blog/2021/02/17/ssh-for-remote-access-on-linux/)
 - [Zint: QR codes Generator](https://spyboy.blog/2021/02/17/zint-qr-codes-generator/)
 - [Open source VPN tools](https://spyboy.blog/2021/02/17/open-source-vpn-tools/)
 - [Instagram: Sites to Buy Followers](https://spyboy.blog/2021/02/04/instagram-sites-to-buy-followers/)
 - [Protected: RedRabbit : Pen-Testing & Post-Exploitation for Windows](https://spyboy.blog/2021/01/31/redrabbit-pen-testing-post-exploitation-for-windows/)
-- [Protected: Zydra : Crack Password-Protected ZIP Files, PDFs & More](https://spyboy.blog/2021/01/29/zydra-crack-password-protected-zip-files-pdfs-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
