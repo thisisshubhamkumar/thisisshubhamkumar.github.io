@@ -97,11 +97,11 @@ contact@spyboy.in
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Personalized Startup Greeting for Your PC](https://spyboy.blog/2024/08/30/how-to-create-a-personalized-startup-greeting-for-your-pc/)
 - [Resolve System Errors like ‘Too Many Open Files’ and ‘RuntimeError: can’t start new thread’ with ulimit Command](https://spyboy.blog/2024/08/28/resolve-system-errors-like-too-many-open-files-and-runtimeerror-cant-start-new-thread-with-ulimit-command/)
 - [The Beginner’s Guide to Bug Bounty Hunting: Finding and Reporting Easy Bugs](https://spyboy.blog/2024/08/27/the-beginners-guide-to-bug-bounty-hunting-finding-and-reporting-easy-bugs/)
 - [Understanding Homograph Attacks: IDN, Cyrillic, and Non-ASCII Threats](https://spyboy.blog/2024/08/14/understanding-homograph-attacks-idn-cyrillic-and-non-ascii-threats/)
 - [Creating  Custom Element for CORS Bypass | Practical Guide](https://spyboy.blog/2024/07/21/creating-custom-element-for-cors-bypass-practical-guide/)
-- [Tracking Digital Footprint: Image, Phone, Email, Username Search](https://spyboy.blog/2024/07/16/tracking-digital-footprint-image-phone-email-username-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://spyboy.blog/)
